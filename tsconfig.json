@@ -34,6 +34,7 @@
       "@graphql-codegen/typescript-document-nodes": ["packages/plugins/typescript/document-nodes/src/index.ts"],
       "@graphql-codegen/typescript-operations": ["packages/plugins/typescript/operations/src/index.ts"],
       "@graphql-codegen/typescript-resolvers": ["packages/plugins/typescript/resolvers/src/index.ts"],
+      "@graphql-codegen/typescript-schema-node": ["packages/plugins/typescript/schema-node/src/index.ts"],
       "@graphql-codegen/typed-document-node": ["packages/plugins/typescript/typed-document-node/src/index.ts"],
       "@graphql-codegen/gql-tag-operations": ["packages/plugins/typescript/gql-tag-operations/src/index.ts"],
       "@graphql-codegen/typescript": ["packages/plugins/typescript/typescript/src/index.ts"],
